@@ -2,7 +2,7 @@
 This application is taking a google book app and refactoring it to a graphql api built with apollo server.
 
 ## Credits
-Used the starter code from the example given. Also used 
+Used the starter code from the example given. Also used the application Module 21 Mini-Project: Tech Matchup App from the UTSA gitlab as an example.
 
 ## User Story
 AS AN avid reader
